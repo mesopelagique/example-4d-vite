@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="vite" uuid="9FA420BF2B9640579FB3B5C6248CB0BC" collation_locale="en-gb">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra>
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>
